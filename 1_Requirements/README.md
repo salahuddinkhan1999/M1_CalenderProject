@@ -33,6 +33,11 @@
     * Dynamic - During execution - Valgrind on Linux Or Dr.Memory on Windows
 * CI/CD - Continuous Integrationa and Continuous Deployment
   * Github - Workflows
+# Practice
+* Certificates
+* [System Setup].https://github.com/stepin654321/MiniProject_Template/wiki
+* [Hacker Earth].https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/
+* Project
     * Build - windows and Linux
     * Unit testing
     * Analysis
