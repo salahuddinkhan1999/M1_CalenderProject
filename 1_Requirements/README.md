@@ -3,7 +3,7 @@
 * User can also know entire date schedule of the month by just entering month and year.
 * User can also save a note on any date of any month.
 
-# What it must contain
+# Objective
 * Folder structure must be as per https://github.com/stepin654321/MiniProject_Template/tree/master/MiniProject_C
 * 100 lines of code, Excluding printf and scanf.
  * Functions
