@@ -16,3 +16,17 @@
   ## Who
   * This calender eases the difficulty of people to know dates, entire schedule of month and also saves a note on a particular date.
   ## What
+  * This project helps in keeping an eye of the dates and day
+  ## Why
+  * The project provides accesibility to calender.
+  ## Where
+  * This calender can be used by anyone.
+  ## How
+  ## High Level Requirements
+  * In this Project we have a choice. In which,
+    1. we can find out the day.
+    2. we can print all the day of the month.
+    3. we can add note for any day.
+  ## Low Level Requirements
+  This project can be implemented by using c language in both windows and linux os. # Implemented
+
