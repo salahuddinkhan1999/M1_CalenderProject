@@ -1,7 +1,7 @@
-# MiniProject
-* Individual
-* C Programming
-* To apply the learning
+# Introduction
+* Calender is a project which enables user to know any corresponding day for any valid date of the year.
+* User can also know entire date schedule of the month by just entering month and year.
+* User can also save a note on any date of any month.
 
 # What it must contain
 * Folder structure must be as per https://github.com/stepin654321/MiniProject_Template/tree/master/MiniProject_C
