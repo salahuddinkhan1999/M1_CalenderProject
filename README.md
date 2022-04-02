@@ -1,2 +1,2 @@
 # M1_MARCH_2022
-Naming Convention: "M1_ProjectGoal"
+Naming Convention: "M1_CalenderProject"
